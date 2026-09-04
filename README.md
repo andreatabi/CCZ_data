@@ -1,1 +1,13 @@
-Environmental and biogeochemical data for the Clarion--Clipperton Zone (CCZ) and the surrounding region were extracted from simulations of the EC-Earth Earth System Model. The extraction region, hereafter referred to as CCZ+10, extends from $170^{\circ}$W to $100^{\circ}$W and from $10^{\circ}$S to $30^{\circ}$N (longitude $-170^{\circ}$ to $-100^{\circ}$, latitude $-10^{\circ}$ to $30^{\circ}$). Data were retained on the native curvilinear EC-Earth ocean grid, without spatial interpolation.
+## Data description
+
+Environmental and biogeochemical data for the **Clarion–Clipperton Zone (CCZ)** 
+and the surrounding region were extracted from simulations of the **EC-Earth 
+Earth System Model**.
+
+The extraction region, hereafter referred to as **CCZ+10**, extends from:
+
+- **Longitude:** 170°W to 100°W
+- **Latitude:** 10°S to 30°N
+
+Data were retained on the native curvilinear EC-Earth ocean grid, without 
+spatial interpolation.
