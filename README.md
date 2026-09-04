@@ -9,6 +9,11 @@ The extraction region, hereafter referred to as **CCZ+10**, extends from:
 - **Latitude:** 10°S to 30°N
 
 Data were retained on the native curvilinear EC-Earth ocean grid, without 
+spatial interpolation. The ocean components of the EC-Earth models use the NEMO ocean model
+on the ORCA1 native curvilinear grid, with an approximate horizontal
+resolution of 1° and 75 vertical levels. Because the grid is
+curvilinear, the exact horizontal resolution varies spatially. The
+extracted CCZ+10 data were retained on this native model grid without
 spatial interpolation.
 
 ### Historical data
