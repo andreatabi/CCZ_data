@@ -73,7 +73,3 @@ Four variables (`o2`, `ph`, `po4`, and `talk`) were available as annual ocean ou
 
 For variables containing a vertical `lev` dimension, **bottom conditions** were defined as the deepest valid wet model cell at each horizontal grid location. The deepest valid cell was identified independently for each location, thereby accounting for spatial variation in model bathymetry across the CCZ+10 domain. No vertical averaging was performed. Variables without a vertical dimension were retained according to their native model definition.
 
-Global model files were spatially cropped to the **CCZ+10** domain before the full data arrays were loaded. This substantially reduced data volume while retaining the original model resolution and native curvilinear grid.
-
-The final future dataset comprises **13 NetCDF files for each scenario–year combination**, corresponding to **52 processed future files in total**.
-
